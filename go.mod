@@ -1,4 +1,4 @@
-module github.com/uthark/dynakube
+module github.com/grosser/dynakube
 
 go 1.24
 
